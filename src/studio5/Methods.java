@@ -119,7 +119,11 @@ public class Methods {
 
 		return values;
 	}
-
+	/**
+	 * 
+	 * @param values in the int array, only accepts ints
+	 * @return the average value of all the ints in the array
+	 */
 	// TODO: Create an arrayMean method which accepts an int array of values parameter.
 	// TODO: Create a JavaDoc comment for the arrayMean method.
 	public static double arrayMean(int[] values) {
